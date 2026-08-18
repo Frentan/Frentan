@@ -65,7 +65,7 @@
 <text x="693.0" y="217" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" fill="#c4e8ff">Italy</text>
 <text x="575" y="253" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" fill="#58a6ff">core_stack:</text>
 <text x="599" y="276" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" fill="#79c0ff">languages:</text>
-<text x="702.5" y="276" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" fill="#c4e8ff">[SQL, Python]</text>
+<text x="702.5" y="276" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" fill="#c4e8ff">[SQL, Python, Bash]</text>
 <text x="599" y="299" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" fill="#79c0ff">data:</text>
 <text x="654.8" y="299" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" fill="#c4e8ff">[dbt, Snowflake, Airflow]</text>
 <text x="599" y="322" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" fill="#79c0ff">cloud:</text>
